@@ -18,7 +18,7 @@ in the 2000s there was the emergence of different methodologies such as the agil
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
-Requirements gathering-Gather the needed requirements from the user and do a proper documentation.
+Requirements gathering:Gather the needed requirements from the user and do a proper documentation.
 Design-This invoves comming up with the architectural design of the product and the user interface.
 Implementation-Involves writing codes to actualize the the deisgned solution.
 Testing-Involves carrying out various testing of the product to ensure they meet a quality standard.
